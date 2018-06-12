@@ -35,7 +35,7 @@
 .search_box{
     width: 430px;
     padding-top: 23px;
-    padding-left: 185px;
+    padding-left: 155px;
 }
 /*解决IE的两种方法*/
 /*.search_text{*/
@@ -1158,7 +1158,7 @@
 }
 .step{
     height: 19px;
-    background: url("../img/shopImg_sm.jpg") left top no-repeat;
+    background: url("../img/icon/step.png") left top no-repeat;
 }
 .step_text{
     color: #FFFFFF;
